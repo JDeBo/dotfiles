@@ -17,6 +17,7 @@
     dc = diff --cached
 
     s = status -s
+    bla = git branch -la
     co = checkout
     cob = checkout -b
     # list branches sorted by last modified
